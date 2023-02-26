@@ -4,7 +4,7 @@ import polygonDown from '../../assets/icons/polygonDown.svg'
 
 export default function CardDown(){
   return(
-    <div className="rounded-2xl text-white" style={{height: "314px", width:"1120px", backgroundColor: "#363447", marginTop: "59px"}}>
+    <div className="rounded-2xl text-white" style={{height: "314px", width:"1120px", backgroundColor: "#363447", marginTop: "59px", boxShadow: '3px 4px 26px rgba(0, 0, 0, 0.25)'}}>
               <h1 className="text-2xl ml-12 pt-7 font-bold pb-8">Vendas por dia da semana</h1>
               <div className="flex">
 

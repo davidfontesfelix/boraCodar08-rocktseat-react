@@ -10,7 +10,8 @@ export default function FistCard(){
           style={{
             height: "379px", 
             width:"296px", 
-            backgroundColor: "#363447"
+            backgroundColor: "#363447",
+            boxShadow: '3px 4px 26px rgba(0, 0, 0, 0.25)'
             }}>
               <h1 className="mt-6 text-white text-2xl font-semibold" >NPS geral</h1>
               <div className="   mt-8 flex flex-col items-center">

@@ -8,11 +8,12 @@ export default function SecondCard() {
           justify-center 
           items-center 
           flex-col 
-          text-white" 
+          text-white"
           style={{
             height: "379px", 
             width:"351px", 
-            backgroundColor: "#363447"
+            backgroundColor: "#363447",
+            boxShadow: '3px 4px 26px rgba(0, 0, 0, 0.25)'
             }}>
 
             <DashboardGrafico reais="" unidade="" titulo="Vendas fechadas" expectativa={100} resultado={70} cor="#A66DE9" />

@@ -2,13 +2,7 @@ import DashboardGrafico from "../DashboardGrafico";
 
 export default function ThirdCard(){
   return(
-    <div className="
-          rounded-2xl 
-          flex 
-          justify-center 
-          items-center 
-          flex-col 
-          text-white" 
+    <div className="rounded-2xl flex justify-center items-center flex-col text-white" 
           style={{
             height: "379px",
             width:"409px", 

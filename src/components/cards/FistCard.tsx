@@ -2,11 +2,7 @@ import happyFace from '../../assets/happyFace.svg'
 
 export default function FistCard(){
   return(
-    <div className="
-          rounded-2xl
-          flex
-          items-center
-          flex-col" 
+    <div className="rounded-2xl flex items-center flex-col" 
           style={{
             height: "379px", 
             width:"296px", 
